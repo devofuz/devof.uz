@@ -1,0 +1,28 @@
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand mb-0 h1" href="/">DevofUz</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/{{- .Site.Language.Lang -}}/salaries/">{{ i18n "Salaries" }}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/{{- .Site.Language.Lang -}}/salary-report/2020-02/">{{ i18n "LatestReportOnSalaries" }}</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/uz{{ .RelPermalink }}">Oʻzbekcha</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/ru{{ .RelPermalink }}">Русский</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

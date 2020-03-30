@@ -1,0 +1,21 @@
+baseURL = "https://devof.uz/"
+languageCode = "uz"
+defaultContentLanguage = "uz"
+theme = "devof.uz"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.uz]
+    title = "Developers of Uzbekistan"
+    weight = 1
+  [languages.ru]
+    title = "Developers of Uzbekistan"
+    weight = 2
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

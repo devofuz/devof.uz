@@ -1,0 +1,13 @@
+{{- define "main" -}}
+<div id="content">
+    <h1>{{- .Title -}}</h1>
+
+    <div id="page-content">
+        {{- .Content -}}
+    </div>
+</div>
+{{- end -}}
+
+{{- define "extra_head" -}}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+{{- end -}}

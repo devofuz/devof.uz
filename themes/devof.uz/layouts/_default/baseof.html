@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{- partial "head.html" . -}}
+        {{- block "extra_head" . }}{{- end }}
+    </head>
+    <body>
+        {{- partial "header.html" . -}}
+        <div class="container">
+            {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+        {{- block "extra_footer" . }}{{- end }}
+        <script src="{{ "js/scripts.js" | absURL }}"></script>
+    </body>
+</html>
