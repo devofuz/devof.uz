@@ -557,4 +557,4 @@ Turli unchalik foydasiz boʻlgan “zoʻr”, “omad”, “yaxshi”, “ok”
 
 Yuqoridagi izohlarning koʻpchiligi keyingi soʻrovnomada hisobga olinadi. Soʻrovnomadagi savollar yaxshilanadi va hisobotni tayyorlashda tugʻilgan qiyinchiliklar ham tuzatiladi.
 
-Natijalarni toʻliqroq oʻrganuvchilar CSV-faylni GitHubʼdan yuklab olishlari mumkin: [github.com/devofuz/salary-reports/blob/master/2020-02.csv](https://github.com/devofuz/salary-reports/blob/master/2020-02.csv).
+Natijalarni toʻliqroq oʻrganuvchilar CSV-faylni GitHubʼdan yuklab olishlari mumkin: [github.com/devofuz/salary-reports/blob/master/2020-02.csv](https://github.com/devofuz/salary-reports/blob/master/2020-02.csv)
