@@ -3,7 +3,7 @@ title: Soʻrovnoma natijalari. 2020-yil fevral.
 date: 2020-03-05T16:19:24+05:00
 ---
 
-2020-yilning fevral oyida AT sohasidagi mutaxassislarning maoshlari boʻyicha soʻrovnoma oʻtkazildi. Bitly servisi orqali yaratilgan havola [bit.ly/uzb-it-salaries-2020-02](http://bit.ly/uzb-it-salaries-2020-02) _959 marta_ bosilgan. Bu havola Google Formsʼdagi soʻrovnomaga yoʻnaltirilgan.
+2020-yilning fevral oyida AT sohasidagi mutaxassislarning maoshlari boʻyicha soʻrovnoma oʻtkazildi. Bitly servisi orqali yaratilgan [havola](http://bit.ly/uzb-it-salaries-2020-02) _959 marta_ bosilgan. Bu havola Google Formsʼdagi soʻrovnomaga yoʻnaltirilgan.
 
 Soʻrovnoma _428 ta_ javob oldi. Lekin ularning ichidan bir nechta takroriy (hamma javoblar bir xil va 1-2 minutning ichida yuborilgan), haqiqatdan yiroq boʻlganlari (oyiga _\$100 000_ kabi) va maosh haqidagi maʼlumotlar toʻldirilmaganlari olib tashlandi va _410 ta javob_ quyidagi statistika maʼlumotlarida foydalanildi.
 
