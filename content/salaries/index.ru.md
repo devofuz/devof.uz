@@ -60,14 +60,14 @@ translationKey: "salaries"
     <div id="results">
       <dt>Количество участников</dt>
       <dd>{{ numberOfParticipants }}</dd>
-      <dt>Минимум и максимум</dt>
-      <dd>{{ min }} / {{ max }}</dd>
       <dt>1-квартиль</dt>
       <dd>{{ firstQuartile }}</dd>
       <dt>Медиана</dt>
       <dd>{{ median }}</dd>
       <dt>2-квартиль</dt>
       <dd>{{ thirdQuartile }}</dd>
+      <dt>Минимум и максимум</dt>
+      <dd>{{ min }} / {{ max }}</dd>
     </div>
   </div>
 </div>
