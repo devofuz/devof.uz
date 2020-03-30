@@ -5,7 +5,8 @@ date: 2020-03-05T16:19:24+05:00
 
 В феврале 2020-го года проводили опрос по зарплатам ИТ-специалистов. _959 раз_ проходили по [ссылке](http://bit.ly/uzb-it-salaries-2020-02) Bitly. Это ссылка перенаправляет пользователя на опрос созданный с помощью сервиса Google Forms.
 
-Опрос получил _428 ответов_. Некоторые ответы были дупликатами, некоторые были далеки от реальности (_100 000 \$ зарплата_) и некоторые были просто пустыми. Они были удалены и остались _410 ответов_ на котором основан этот опрос.
+<!-- prettier-ignore -->
+Опрос получил _428 ответов_. Некоторые ответы были дупликатами, некоторые были далеки от реальности (_100 000 $ зарплата_) и некоторые были просто пустыми. Они были удалены и остались _410 ответов_ на котором основан этот опрос.
 
 Надеемся что в следующий раз участников будут больше и получим более реальные данные.
 
@@ -387,8 +388,9 @@ date: 2020-03-05T16:19:24+05:00
 
 Место (тип) работы и зарплаты:
 
-- _343 человек_ работают в офисе и их медианная зарплата _\$800_;
-- _67 человек_ работают удаленно и их медианная зарплата _\$1 500_.
+<!-- prettier-ignore -->
+- _343 человек_ работают в офисе и их медианная зарплата _$800_;
+- _67 человек_ работают удаленно и их медианная зарплата _$1 500_.
 
 Расположение основного офиса и зарплаты:
 
@@ -502,6 +504,7 @@ date: 2020-03-05T16:19:24+05:00
 
 Если убрать стандартные ответы вроде «хорошо», «ок», «ждем» и т.д. то вот комментарии и пожелания:
 
+<!-- prettier-ignore -->
 - I filled up the form based on my job experience which I quitted recently because they refused to pay me the amount I requested.They underestimate QA Engineers and testers in most software companies in Uzbekistan which is why the quality of software products are low.
 - На сколько изменилась зарплата - не понятно как поставить ответ на 10%
 - Работодатели в США не только хорошо платят но ещё ценят твою работу, благодарят за неё (appreciate)
@@ -513,7 +516,7 @@ date: 2020-03-05T16:19:24+05:00
 - Hammasi 1 tiyin. Hammayoqda poraxo‘rlik. Tanish~bilish davlatni o‘marish. Olg‘a O‘zbekiston
 - Umuman olganda so'rovnoma va undan ko'zlangan maqsadga gap-so'z bo'lishi mumkin emas, ajoyib. Qo'shimcha qilib bir narsani aytmoqchiman. Software Engineering deb berilgan field ni yanada sub-field larga bo'lish mumkin. Shunda yanada aniqroq va foydaliroq natija bo'ladi deb o'ylayman.
 - 4 oy bolyapti ishlab boshlaganimga
-- O'zbekistonda programmistlar uchun maosh minimal 1000\$ bo'lishi kerak
+- O'zbekistonda programmistlar uchun maosh minimal 1000$ bo'lishi kerak
 - Еще бы учесть доход от доли в компании и тех, кто работает в различных компаниях одновременно. К примеру, меня мест работы 7: 3 гос, 2 частные фирмы, 2 своих проекта
 - Local kompaniyalarda oldin yaxwi oylik tolawmasdi. Fido Biznesda yaxwi tulawvoti
 - зарплаты низкие, думаю уезжать из страны

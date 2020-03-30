@@ -5,7 +5,8 @@ date: 2020-03-05T16:19:24+05:00
 
 2020-yilning fevral oyida AT sohasidagi mutaxassislarning maoshlari boʻyicha soʻrovnoma oʻtkazildi. Bitly servisi orqali yaratilgan [havola](http://bit.ly/uzb-it-salaries-2020-02) _959 marta_ bosilgan. Bu havola Google Formsʼdagi soʻrovnomaga yoʻnaltirilgan.
 
-Soʻrovnoma _428 ta_ javob oldi. Lekin ularning ichidan bir nechta takroriy (hamma javoblar bir xil va 1-2 minutning ichida yuborilgan), haqiqatdan yiroq boʻlganlari (oyiga _\$100 000_ kabi) va maosh haqidagi maʼlumotlar toʻldirilmaganlari olib tashlandi va _410 ta javob_ quyidagi statistika maʼlumotlarida foydalanildi.
+<!-- prettier-ignore -->
+Soʻrovnoma _428 ta_ javob oldi. Lekin ularning ichidan bir nechta takroriy (hamma javoblar bir xil va 1-2 minutning ichida yuborilgan), haqiqatdan yiroq boʻlganlari (oyiga _$100 000_ kabi) va maosh haqidagi maʼlumotlar toʻldirilmaganlari olib tashlandi va _410 ta javob_ quyidagi statistika maʼlumotlarida foydalanildi.
 
 Umid qilamiz, keyingi soʻrovnomada koʻproq odam qatnashadi va statistika haqiqatga yaqinlashib, bemalol suyanish mumkin boʻlgan manbaga aylanadi.
 
@@ -387,8 +388,9 @@ Foydalanilayotgan texnologiyalar:
 
 Ish joyi va maoshlar:
 
-- ofishda ishlovchilar _343 ta_ va ularning mediana maoshi _\$800_;
-- masofadan ishlovchilar _67 ta_ va mediana maoshi _\$1 500_.
+<!-- prettier-ignore -->
+- ofishda ishlovchilar _343 ta_ va ularning mediana maoshi _$800_;
+- masofadan ishlovchilar _67 ta_ va mediana maoshi _$1 500_.
 
 Asosiy ofisning mamlakati boʻyicha ishtirokchilar va maoshlar:
 
@@ -502,6 +504,7 @@ Kompaniyalar nimalarni taklif qiladi?
 
 Turli unchalik foydasiz boʻlgan “zoʻr”, “omad”, “yaxshi”, “ok” kabi izohlardan tozalangan fikrlar quyida.
 
+<!-- prettier-ignore -->
 - I filled up the form based on my job experience which I quitted recently because they refused to pay me the amount I requested.They underestimate QA Engineers and testers in most software companies in Uzbekistan which is why the quality of software products are low.
 - На сколько изменилась зарплата - не понятно как поставить ответ на 10%
 - Работодатели в США не только хорошо платят но ещё ценят твою работу, благодарят за неё (appreciate)
@@ -513,7 +516,7 @@ Turli unchalik foydasiz boʻlgan “zoʻr”, “omad”, “yaxshi”, “ok”
 - Hammasi 1 tiyin. Hammayoqda poraxo‘rlik. Tanish~bilish davlatni o‘marish. Olg‘a O‘zbekiston
 - Umuman olganda so'rovnoma va undan ko'zlangan maqsadga gap-so'z bo'lishi mumkin emas, ajoyib. Qo'shimcha qilib bir narsani aytmoqchiman. Software Engineering deb berilgan field ni yanada sub-field larga bo'lish mumkin. Shunda yanada aniqroq va foydaliroq natija bo'ladi deb o'ylayman.
 - 4 oy bolyapti ishlab boshlaganimga
-- O'zbekistonda programmistlar uchun maosh minimal 1000\$ bo'lishi kerak
+- O'zbekistonda programmistlar uchun maosh minimal 1000$ bo'lishi kerak
 - Еще бы учесть доход от доли в компании и тех, кто работает в различных компаниях одновременно. К примеру, меня мест работы 7: 3 гос, 2 частные фирмы, 2 своих проекта
 - Local kompaniyalarda oldin yaxwi oylik tolawmasdi. Fido Biznesda yaxwi tulawvoti
 - зарплаты низкие, думаю уезжать из страны
