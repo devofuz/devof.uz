@@ -1,0 +1,4519 @@
+[
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 750
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "PHP",
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 4500
+  },
+  {
+    "english": "Advanced",
+    "education": "Колледж / Kollej",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "C++",
+      "Game Development (Unity/Unreal Engine)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 5400
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Data Scientist",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 4000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Designer",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 4200
+  },
+  {
+    "english": "Beginner",
+    "education": "Среднее / Oʻrta",
+    "position": "Designer",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 6000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 3500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "DevOps Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "DevOps Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Product Manager",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 400
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1100
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Project Manager",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 350
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "QA Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)",
+      "Python",
+      "Selenium"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 600
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 900
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 905
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Cordova/Ionic"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["1c"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 300
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 5000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 2500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 2500
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Vue.js",
+      "Amazon Web services"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1684
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 6800
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Ruby",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python",
+      "Delphi"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 684
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 2200
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1495
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1158
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": ">10",
+    "salary_in_usd": 3158
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET", "PHP", "Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 300
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala", "Android (Kotlin/Java)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 211
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["MERN stack"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 42
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1900
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 105
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 4000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala", "Android (Kotlin/Java)"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["PHP", "Golang", "Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 211
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "System Administrator",
+    "level": "Middle",
+    "languages_and_technologies": ["Web (HTML/CSS)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 158
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "System Administrator",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 789
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": ["Python", "C++"],
+    "overall_experience": ">10",
+    "salary_in_usd": 2632
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 700
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": ["Web (HTML/CSS)", "Golang", "Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1600
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP", "SQL/PL-SQL", "C++"],
+    "overall_experience": ">10",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Team Lead",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 550
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Golang"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1300
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Junior",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1368
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Golang",
+      "Python"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Data Scientist",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL", "Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1474
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 1800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 32
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "DevOps Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 411
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "<1",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Project Manager",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 300
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1600
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 2500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "React",
+      "React Native"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1400
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 463
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1474
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP", "SQL/PL-SQL"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala", "Android (Kotlin/Java)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 7000
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Android (Kotlin/Java)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 84
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": ["Java/Scala", "Android (Kotlin/Java)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL", "Python", "C++"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 168
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala", "SQL/PL-SQL"],
+    "overall_experience": "<1",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 579
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Junior",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 105
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": ["C#/.NET", "Java/Scala", "C++"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1895
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Data Scientist",
+    "level": "Junior",
+    "languages_and_technologies": ["SQL/PL-SQL", "Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1263
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Data Scientist",
+    "level": "Junior",
+    "languages_and_technologies": ["Python", "C++"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Database Administrator",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 2105
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "<1",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 2211
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1684
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 474
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Product Manager",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1263
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Project Manager",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)", "Web (HTML/CSS)"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)",
+      "C++"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Golang"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 232
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Python"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 158
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)", "Flutter"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 895
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "PHP",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1263
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 221
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 189
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 158
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 600
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET", "Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 474
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Web (HTML/CSS)", "Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 368
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 684
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["PHP"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 579
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala", "SQL/PL-SQL"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 474
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 158
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 947
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 474
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 579
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 232
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 227
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["SQL/PL-SQL", "Web (HTML/CSS)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 95
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "System Administrator",
+    "level": "Senior",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1474
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "System Administrator",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 850
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "C++"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1263
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 295
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Junior",
+    "languages_and_technologies": ["Cisco"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 474
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL", "Web (HTML/CSS)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 126
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "System Architect",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 84
+  },
+  {
+    "english": "",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Node.js"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 889
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1250
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 547
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET", "SQL/PL-SQL", "C++"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET", "SQL/PL-SQL"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 947
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 284
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Automation Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Business Analyst",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1684
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Data Scientist",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Data Scientist",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL", "Python", "C++"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 2632
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 4500
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 105
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1800
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Designer",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1158
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 947
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "DevOps Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 5800
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "ERP/CRM",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1474
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "ERP/CRM",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1474
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "ERP/CRM",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "<1",
+    "salary_in_usd": 368
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Hardware Engineer",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1263
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Hardware Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Network Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Network Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Product Manager",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Product Manager",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 947
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "QA Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Android (Kotlin/Java)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Python"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 474
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 900
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 900
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET", "SQL/PL-SQL"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1225
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["PHP"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 200
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1158
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 3500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala", "SQL/PL-SQL"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Golang"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 250
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 2500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["SQL/PL-SQL", "Delphi"],
+    "overall_experience": ">10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "ActionScript3"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 4000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "PHP",
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["C#/.NET", "SQL/PL-SQL", "Web (HTML/CSS)"],
+    "overall_experience": ">10",
+    "salary_in_usd": 2500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 2500
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Node.js"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1579
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 750
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 684
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python", "C++", "ABAP"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 700
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Node.js"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": ["Clojure", "ClojureScript"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1700
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL", "Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 947
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 442
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["React Native"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 368
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "ABAP"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 74
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["SQL/PL-SQL", "macro C"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 400
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Delphi"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Node.js"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 505
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 211
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 600
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 368
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL", "Python", "Dart"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 579
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 789
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 279
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 905
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1263
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1789
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 600
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 368
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1158
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 600
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)", "Python", "C++"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1297
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala", "SQL/PL-SQL"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 2600
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "<1",
+    "salary_in_usd": 211
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Python"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Beginner",
+    "education": "Среднее / Oʻrta",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "SQL/PL-SQL", "Web (HTML/CSS)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Golang",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python",
+      "IIS server",
+      "Yii2",
+      "Django",
+      "React"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 600
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "System Architect",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "System Architect",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Golang"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": ">10",
+    "salary_in_usd": 2105
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "C++"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 947
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Team Lead",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Abap"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Team Lead",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "ABAP"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": ["C#/.NET", "PHP", "Web (HTML/CSS)"],
+    "overall_experience": ">10",
+    "salary_in_usd": 947
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": ["Java/Scala", "Android (Kotlin/Java)"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Python"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Team Lead",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 9474
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Database Administrator",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "<1",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Lead",
+    "languages_and_technologies": ["SQL/PL-SQL", "C++", "Pro C/C++"],
+    "overall_experience": ">10",
+    "salary_in_usd": 2526
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1368
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "PHP",
+      "Web (HTML/CSS)",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "System Architect",
+    "level": "Junior",
+    "languages_and_technologies": ["Web (HTML/CSS)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 51
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "C++",
+      "Game Development (Unity/Unreal Engine)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1263
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Node.js"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Data Scientist",
+    "level": "Junior",
+    "languages_and_technologies": ["SQL/PL-SQL", "Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Data Scientist",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Senior",
+    "languages_and_technologies": [],
+    "overall_experience": "5-7",
+    "salary_in_usd": 2526
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "1-3",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "<1",
+    "salary_in_usd": 211
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Designer",
+    "level": "Junior",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Lead",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Project Manager",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 750
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "QA Engineer",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "QA Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 105
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 2600
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 3500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python", "C++"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 900
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Golang"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1200
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "<1",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": ["C#/.NET", "C++"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 2500
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1684
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 2350
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1650
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 2400
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Golang", "Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1100
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Java/Scala", "SQL/PL-SQL"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 600
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 589
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 100
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Web (HTML/CSS)", "Python"],
+    "overall_experience": "<1",
+    "salary_in_usd": 300
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "SQL/PL-SQL",
+      "Web (HTML/CSS)",
+      "Python",
+      "C++"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 895
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "C++",
+      "Qt Framework"
+    ],
+    "overall_experience": ">10",
+    "salary_in_usd": 611
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1053
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "Web (HTML/CSS)",
+      "C++"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 211
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 300
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["C#/.NET"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 632
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "React"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 2000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Python"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 900
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "C#/.NET",
+      "Android (Kotlin/Java)",
+      "Web (HTML/CSS)",
+      "C++",
+      "Game Development (Unity/Unreal Engine)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Web (HTML/CSS)", "React"],
+    "overall_experience": "<1",
+    "salary_in_usd": 200
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "Android (Kotlin/Java)",
+      "Python"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "<1",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Beginner",
+    "education": "Среднее / Oʻrta",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Senior",
+    "languages_and_technologies": ["PHP", "Android (Kotlin/Java)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["SQL/PL-SQL", "C++"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 500
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Lead",
+    "languages_and_technologies": [
+      "PHP",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "Python"
+    ],
+    "overall_experience": "5-7",
+    "salary_in_usd": 1800
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Android (Kotlin/Java)", "C++"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "PHP",
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)",
+      "C++"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 105
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 737
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala", "Golang", "Python"],
+    "overall_experience": "<1",
+    "salary_in_usd": 350
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 842
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "<1",
+    "salary_in_usd": 474
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Web (HTML/CSS)", "Python", "C++"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 200
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 263
+  },
+  {
+    "english": "Beginner",
+    "education": "Среднее / Oʻrta",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "<1",
+    "salary_in_usd": 11
+  },
+  {
+    "english": "Advanced",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Web (HTML/CSS)", "Python"],
+    "overall_experience": "<1",
+    "salary_in_usd": 100
+  },
+  {
+    "english": "Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Web (HTML/CSS)", "Python"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 21
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 105
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Android (Kotlin/Java)"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1000
+  },
+  {
+    "english": "Intermediate",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 105
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)"
+    ],
+    "overall_experience": "1-3",
+    "salary_in_usd": 211
+  },
+  {
+    "english": "Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["Python"],
+    "overall_experience": "5-7",
+    "salary_in_usd": 526
+  },
+  {
+    "english": "Beginner",
+    "education": "Колледж / Kollej",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": [
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "<1",
+    "salary_in_usd": 421
+  },
+  {
+    "english": "Beginner",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Software Engineer",
+    "level": "Junior",
+    "languages_and_technologies": ["Java/Scala"],
+    "overall_experience": "1-3",
+    "salary_in_usd": 316
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "Software Engineer",
+    "level": "Middle",
+    "languages_and_technologies": ["PHP", "Python"],
+    "overall_experience": "3-5",
+    "salary_in_usd": 400
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": ["iOS (Swift/Objective C)"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Upper Intermediate",
+    "education": "Незаконченное высшее / Yakunlanmagan oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective C)",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "7-10",
+    "salary_in_usd": 3000
+  },
+  {
+    "english": "Advanced",
+    "education": "Высшее / Oliy",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": [
+      "Java/Scala",
+      "SQL/PL-SQL",
+      "Frontend Development (JavaScript/TypeScript)",
+      "Web (HTML/CSS)"
+    ],
+    "overall_experience": "3-5",
+    "salary_in_usd": 1358
+  },
+  {
+    "english": "Intermediate",
+    "education": "Среднее / Oʻrta",
+    "position": "Team Lead",
+    "level": "Senior",
+    "languages_and_technologies": ["Golang", "Python"],
+    "overall_experience": "7-10",
+    "salary_in_usd": 1211
+  },
+  {
+    "english": "Beginner",
+    "education": "Высшее / Oliy",
+    "position": "CTO, Director of Engineering",
+    "level": "Lead",
+    "languages_and_technologies": ["PHP", "SQL/PL-SQL", "Node.js"],
+    "overall_experience": ">10",
+    "salary_in_usd": 1500
+  },
+  {
+    "english": "Beginner",
+    "education": "Среднее / Oʻrta",
+    "position": "CIO",
+    "level": "Middle",
+    "languages_and_technologies": [],
+    "overall_experience": ">10",
+    "salary_in_usd": 632
+  }
+]
