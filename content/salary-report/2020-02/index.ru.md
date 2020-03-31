@@ -1,19 +1,19 @@
 ---
-title: Результаты опроса. Февраль 2020-го года.
+title: Результаты опроса. Февраль, 2020 год.
 date: 2020-03-05T16:19:24+05:00
 ---
 
-В феврале 2020-го года проводили опрос по зарплатам ИТ-специалистов. _959 раз_ проходили по [ссылке](http://bit.ly/uzb-it-salaries-2020-02) Bitly. Это ссылка перенаправляет пользователя на опрос созданный с помощью сервиса Google Forms.
+В феврале 2020 года мы провели опрос по зарплатам ИТ-специалистов. [Ссылка](http://bit.ly/uzb-it-salaries-2020-02) на опросник была нажата _959 раз_.
 
 <!-- prettier-ignore -->
-Опрос получил _428 ответов_. Некоторые ответы были дупликатами, некоторые были далеки от реальности (_100 000 $ зарплата_) и некоторые были просто пустыми. Они были удалены и остались _410 ответов_ на котором основан этот опрос.
+Опрос получил _428 ответов_. Некоторые ответы были дупликатами, некоторые были далеки от реальности (_$100 000 зарплата_) и некоторые были просто пустыми. Они были удалены и остались _410 ответов_ на котором основан этот отчёт.
 
-Надеемся что в следующий раз участников будут больше и получим более реальные данные.
+Надеемся что в следующий раз участников будет больше и данные будут более аккуратными.
 
 Внимание:
 
 1. Чтобы почти все не стали миллионерами и показать зарплаты в более простой форме все зарплаты переведены на доллары США по курсу 9 500 сум.
-2. Для вычисление средних зарплат используется [медиана](<https://ru.wikipedia.org/wiki/Медиана_(статистика)>), а не среднее арифметическое. Например, если из 5 человек 4 указали зарплату как 5 $ и один из них 1000 $ то среднее арифметическое равно 204 $, а медиана равна 5 $. Медиана позволяет отсечь слишком высокие и низкие значения.
+2. Для вычисления средних зарплат используется [медиана](<https://ru.wikipedia.org/wiki/Медиана_(статистика)>) вместо средне арифметического значения. Например, если из 5 человек 4 указали зарплату как $5 и один из них $1 000, то среднее арифметическое равно $204, а медиана равна $5. Медиана позволяет отсечь слишком высокие и низкие значения.
 
 ## Портрет участника
 
@@ -36,7 +36,7 @@ date: 2020-03-05T16:19:24+05:00
                 'Республика Каракалпакстан',
                 'Самаркандская область',
                 'Сурхандарьинская область',
-                'Ташкент',
+                'город Ташкент',
                 'Ташкентская область',
                 'Ферганская область',
                 'Хорезмская область'
@@ -77,7 +77,7 @@ date: 2020-03-05T16:19:24+05:00
     });
 </script>
 
-Возрасть многих участников между 20 и 29 (включительно):
+Возраст многих участников между 20 и 29 (включительно):
 
 <canvas id="chart-age-intervals"></canvas>
 
@@ -105,7 +105,7 @@ date: 2020-03-05T16:19:24+05:00
     });
 </script>
 
-Знание английского немного влияет на зарплату:
+Знание английского языка немного влияет на зарплату:
 
 <canvas id="chart-english-levels"></canvas>
 
@@ -130,7 +130,7 @@ date: 2020-03-05T16:19:24+05:00
     });
 </script>
 
-Прямого связа зарплаты и образование не существует:
+Прямой связи между зарплатой и образованием нет:
 
 <canvas id="chart-education"></canvas>
 
@@ -170,7 +170,7 @@ date: 2020-03-05T16:19:24+05:00
 - 240 человек в сумах;
 - 170 человек в долларах США.
 
-Количество участников по должностям и зарплаты:
+Количество участников по должностям и их зарплаты:
 
 <canvas id="chart-positions-and-salaries" style="height: 600px"></canvas>
 
@@ -218,7 +218,7 @@ date: 2020-03-05T16:19:24+05:00
     });
 </script>
 
-Уровень, возрасть и зарплаты участников (оба медианы):
+Уровень навыков, возраст и зарплаты участников (медианы):
 
 <canvas id="chart-levels-and-salaries"></canvas>
 
@@ -241,7 +241,7 @@ date: 2020-03-05T16:19:24+05:00
                     backgroundColor: '#E55934'
                 },
                 {
-                    label: 'Возрасть',
+                    label: 'Возраст',
                     data: [23, 25, 30, 32],
                     borderWidth: 0,
                     backgroundColor: '#7871AA'
@@ -257,7 +257,7 @@ date: 2020-03-05T16:19:24+05:00
     });
 </script>
 
-Общий опыт работы, количество участников и зарплаты:
+Опыт работы, количество участников и их зарплаты:
 
 <canvas id="chart-experience-and-salaries"></canvas>
 
@@ -484,7 +484,7 @@ date: 2020-03-05T16:19:24+05:00
                 'Бонусы от завершённых проектов',
                 'Питание в офисе (обеды)',
                 'Возможность удалённой работы',
-                'Компенсация затрат на спорт (фитнес, бассейн)',
+                'Компенсация затрат на спорт (фитнес зал, бассейн)',
                 'Акции, опционы (equity)',
                 'Возможность переезда в другой город или страну'
             ],
@@ -506,58 +506,58 @@ date: 2020-03-05T16:19:24+05:00
 
 <!-- prettier-ignore -->
 - I filled up the form based on my job experience which I quitted recently because they refused to pay me the amount I requested.They underestimate QA Engineers and testers in most software companies in Uzbekistan which is why the quality of software products are low.
-- На сколько изменилась зарплата - не понятно как поставить ответ на 10%
-- Работодатели в США не только хорошо платят но ещё ценят твою работу, благодарят за неё (appreciate)
-- yaxshi so'rovnoma, manimcha kompaniyalar uchun ham shunaqa so'rovnomalar qilish kerak
-- Sizlarga bu nega kerak, tushunmadim
-- O'zbekistonda dasturchilar maoshi ko'ngildagiday emas.
-- Добавь девопс и инженеров
+- На сколько изменилась зарплата - не понятно как поставить ответ на 10%.
+- Работодатели в США не только хорошо платят но ещё ценят твою работу, благодарят за неё (appreciate).
+- Хороший опросник, по моему нужно сделать такой же опросник для компаний.
+- Зачем вам это нужно, я не понял(а).
+- Зарплата программистов в Узбекистане неудовлетворительная.
+- Добавь девопс и инженеров.
 - "Soʻnggi 12 oy ichida maoshingiz qanchaga oʻzgardi?" deganda so'nggi 12 oyda maoshingiz qanchalik ortdi deb tarjima qilsa bo'ladimi? Shu joyi sal tushunarsiz bo'lib qolgan
 - Hammasi 1 tiyin. Hammayoqda poraxo‘rlik. Tanish~bilish davlatni o‘marish. Olg‘a O‘zbekiston
 - Umuman olganda so'rovnoma va undan ko'zlangan maqsadga gap-so'z bo'lishi mumkin emas, ajoyib. Qo'shimcha qilib bir narsani aytmoqchiman. Software Engineering deb berilgan field ni yanada sub-field larga bo'lish mumkin. Shunda yanada aniqroq va foydaliroq natija bo'ladi deb o'ylayman.
-- 4 oy bolyapti ishlab boshlaganimga
-- O'zbekistonda programmistlar uchun maosh minimal 1000$ bo'lishi kerak
-- Еще бы учесть доход от доли в компании и тех, кто работает в различных компаниях одновременно. К примеру, меня мест работы 7: 3 гос, 2 частные фирмы, 2 своих проекта
-- Local kompaniyalarda oldin yaxwi oylik tolawmasdi. Fido Biznesda yaxwi tulawvoti
-- зарплаты низкие, думаю уезжать из страны
-- Сделать возможность выбора нескольких должностей, бывают совмещения должностей
+- 4 месяца как я начал работать.
+- Минимальная зарплата программистов в Узбекистане должна составлять $1 000
+- Еще бы учесть доход от доли в компании и тех, кто работает в различных компаниях одновременно. К примеру, меня мест работы 7: 3 гос, 2 частные фирмы, 2 своих проекта.
+- Местные компании раньше хорошо не платили. Фидо бизнес (сейчас) платит хорошо.
+- Зарплаты низкие, думаю уезжать из страны.
+- Сделать возможность выбора нескольких должностей, бывают совмещения должностей.
 - ВМнинг 2013 йил 25 январдаги 18 сон карори хамда Президентнинг 2018 йил 19 февралдаги ПФ-5349-сон карори ижроси барча ташкилотларда тулик ижро этилмаяпти. Яни АКТ сохаси деганда имтиёз, устама ойлик маошларини оширишда фақат дастурчи ходимлар назарда тутиляпти. Лекин IT йуналиши, тармоқларни ташкил этиш ва бошқариш, ахборот хавфсизлигини таъминлаш йўналишлари назардан четда колмоқда. Ахир булар бўлмаса дастурчи ишлаб чиккан дастур каерда ва кандай ишлайди. Сервер, администраторлар куну-тун дастурлар узилиб қолишини назорат қиладику. Буни хеч ким кўрамаяпти.
   IT йўналиши, тармоқларни ташкил этиш ва бошқариш, ахборот хавфсизлигини таъминлаш йуналишларида ишлайдиган ходимларни иши хам дастурчи ходимнинг ишидан кўра оғир, масъулиятли, хажм жихатдан кўп бўлса кўпки, кам эмас деб ўйлайман. Шу билан бирга яратилган дастурни ўрнатиш, ишга тушириш, фойдаланувчига ўргатиш, компьютерда тегишли созлаш ишларини бажариш ва бошқалар жойларда АКТнинг юқоридаги сохаларида ишлаётган ходимлар зиммасига тушмоқда. Лекин, натижа факат дастурчиларга берилмокда.
   Хозирги кунда манимча Узбекистонда локал ва корпоратив тармоқ ташкил этмаган сохалар, ташкилотлар этилганлардан кўпроқ. Улар учун хали дастур ёзиш у ёкда турсин. Олдин дастурларни ишлатиш учун тармоқларни, шароитларни ташкил этиш керак.
   Бунинг учун АКТ сохасида ишловчиларни дастур ёзувчиларга нисбатан ажратмаслик керак. Улар хам дастурчилардек маош, устама ва имтиёзларга эга бўлиши керак.
-- Я хотел бы работать на лучшее условие и с хорошей зп
+- Я хотел бы работать на лучшее условие и с хорошей зп.
 - IT sohasidagilarni qadriga yetishmidi haliyam oson koʻrinadi bularni koʻziga. 12 soatlab kompyuterni oldida kod yozish nimaligini bilishmaydi
-- Oʼzbekistondagi bujjet tashkilotlarda IT mutahasislariga kam maosh toʼlashadi
-- In Uzbekistan, the salary of IT workers is small
+- В Узбекистане в бюджетных (гос) учреждениях специалистам ИТ платят мало.
+- Зарплаты ИТ сотрудников в Узбекистане маленькие.
 - Oyliklarni AKT sohasida davlat tashkilotlarida oshirish masalasi ko'rib chiqilishi kerak, agar davlat tashkiloti biror bir firma bilan 1 mlrd. so'm shartnoma qilinsa to'lashda muammo yo'q, xodimga oylik maoshini 1 mln so'mga oshirishda esa muammolar tiqilib yotibdi
-- IT ni davlat tashkilotlarida rivojlantrish va oilik maoshlarini kotarish kerak.
-- Men hozirgi kunda ishlamayman. Bu natijalar mening oxirgi ish joyimga bog'liq. Hissa qo'shay degan edim.
-- Не бывает уровень знания колледж
+- В гос учреждениях надо развивать ИТ и поднять разплаты.
+- На сегодняшний день я работаю. Мои ответы основаны на моей нынешней работе. Я хотел внести свой вклад (в опросник).
+- Не бывает уровень знания колледж.
 - O'zbekistonda AT sohasini yanada rivoklantirish borasidagi barcha ishlar yanada ko'paytirilihsini va IT xodimlar darajasini oshirishga katta e'tibor qaratilishini xohlayman
 - Davlat korxonalarida dasturchilar oyligi aancha past
 - O'zbekistonda ham boshqa mamlakatlardagidek AKT mutaxassislariga e'tiborni kuchaytirish kerak
-- Oylikni ko`tarish kerak
+- Зарплату надо поднять.
 - Bu loyiha juda kerakli edi shuningdek kerakli vaqtda amalga osgirilmoqda. Bundan juda xursandman. Chunki hozirgi ishimga o'tishimda oylik maosh borasida ish beruvchi bilan mavhumlik yuz berdi. Shunday vaziyatda nimaga asoslanishni bilmay qoldim. Ushbu loyihani amalga oshirishda tashkilotchilarga muvaffaqiyat tilayman.
 - Ищу работу в городе Наваи (по семейным обстоятельством)
 - Dasturlash sohasi texnologiyalari to'xtovsiz rivojlanib boradi. Shuni inobatga olgan holda dasturchiga o'z ustida ishlashi, bilimini to'xtovsiz kuchaytirib borishiga imkoniyat qilib berilishi kerak deb hisoblayman. Uzoq muddat ishlagan dasturchilarda tajriba ko'p bo'lsa ham yangoi texnologiyalar haqida bilim yetmay qolishi mumkin.
 - Что отмечать в пункте про позиции фулл стэк разрабам? Ни одного из perks пока что. Думаю, что стоит добавить пункт "ничего, кроме зарплаты"
 - Вы забыли вопрос про дни работы)
-- Этот опрос не имеет значение. Как было так и будет
-- Pythonni rivojlantirish kerak. Dasturlash tillar markazi kabi joylar ochish shart(O’quv markazi emas)
-- Bir tiyinga qimmat IT bozor
-- Sayt haqida fikrim yaxshi! Yanaqa yaxshiroq takomillashtirish kerak. Ko'p sohalarni ichiga olsa undan ham yaxshi! Umuman olganda g'oya zo'r! Ishlarizga oma
+- Этот опрос не имеет значения. Как было так и будет.
+- Надо развивать Python. Необходимо открыть центр языков программирования (не обучающий центр).
+- "Bir tiyinga qimmat IT bozor!"
+- У меня хорошее мнение о сайте! Надо его улучшать. Будет еще лучше, если он включит в себя много сфер! В общем отличная идея! Удачи в ваших делах!
 - O'zbekistonda IT sohasida maoshlar kamligi kop vaqtlardan buyon muammo bolib kelmoqda lekin bunga buni kopchilik bilasada negadir etibor qaratishmaydi
 - Не смотря что дефицит специалистов в IT у нас слишком низкие цены... В том числе и QA...
 - Thanks for the efforts made for the prosperity of highlighted area in our country!!!
-- Oylikni ko'rsatish joylarida man uchun muammo bo'ladi. Oyligim kam lekin % olaman tasischi sifatida. :)
+- Поля для ввода зарплат были затруднительными для меня. Моя зарплата маленькая, но я также получаю % как основатель. :)
 - Juda ajoyib ishni boshlabsilar omad men ham chet el saytlarini muntazam kuzatib borar edim va bu fikr manda ham paydo bolgandi faqat bilim kamli qilgandi
 - Многие только начинающие программисты долго думают как продолжить эту профессию или как найти работу, при такой ситуации кодерам нужен в полне действующий сайт фрилансера! Рынок где девелопер может представить свои услуги, а те кто просто бизнесом занимаются найти хороших программистов и т.д. Спасибо за внимание! Удачи во всех начинаниях!
-- Tekinga ishlatadiganlar juda ko'p beginner va middle darajadagilarni
-- Лучше когда вопрос сумму заработка будет стоять вместо поля ввода а варианты от и до
-- Urganchda Toshkentdagiday sharoit va oylik maosh bo'lsa shu yerda ishlar edim :)
+- Много людей работающих за бесплатно уровня Beginner/Middle.
+- Лучше когда вопрос сумму заработка будет стоять вместо поля ввода а варианты от и до.
+- Если бы в Ургенче были зарплаты и условия как в Ташкенте, то я работал бы здесь (в Ургенче).
 
 ## Выводы
 
-Некоторые недочеты и пожелания будут учтены в следующих опросах и еще вопросы будут улучшены.
+Некоторые недочеты и пожелания будут учтены в следующих опросах. Также будут улучшены вопросы.
 
-Резултаты доступны как CSV-файл на Гитхабе: [github.com/devofuz/salary-reports/blob/master/2020-02.csv](https://github.com/devofuz/salary-reports/blob/master/2020-02.csv)
+Резултаты доступны как CSV-файл на GitHub: [github.com/devofuz/salary-reports/blob/master/2020-02.csv](https://github.com/devofuz/salary-reports/blob/master/2020-02.csv)
