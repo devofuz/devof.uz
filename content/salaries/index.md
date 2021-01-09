@@ -74,5 +74,5 @@ translationKey: "salaries"
 
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/mathjs/dist/math.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjs/lib/browser/math.js"></script>
 <script src="/js/salary-widget.js"></script>
